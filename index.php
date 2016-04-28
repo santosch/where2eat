@@ -40,6 +40,15 @@
                     <?php include('tpl/filters.phtml'); ?>
                 </div>
             </div>
+			
+			<div class="panel panel-primary">
+                <div class="panel-body text-center">
+                    <a href="https://github.com/santosch/where2eat" target="_blank" class="btn btn-default btn-block">where2eat auf GitHub</a>
+					<p class="text-muted"><br/>PullRequests welcome! (Vor allem neue Locations)</p>
+                </div>
+            </div>
+			
+			
 
         </div>
         <div class="col-md-8 col-lg-9 rightside">
