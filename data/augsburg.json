@@ -154,5 +154,17 @@
 	"waytime": 13,
 	"staytime": 30,
 	"avgcosts": 5
+  },
+  {
+	"name": "La Villa",
+	"address": "Bahnhofsstraße 10",
+	"url": "http://www.lavilla-augsburg.eu/",
+	"telephone": "0821 508 00 13",
+	"tags": "Italienisch, Pizza, Pasta",
+	"type": "warm, zum dort essen",
+	"distance": 500,
+	"waytime": 6,
+	"staytime": 50,
+	"avgcosts": 10
   }
 ]
