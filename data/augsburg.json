@@ -76,7 +76,7 @@
     "address": "Viktoriastraße 1",
     "url": "http://www.yormas.de/standorte/augsburg/",
     "telephone": "0821 2413833",
-    "tags": "Sandwiches,Baguettes, Würste, Salat",
+    "tags": "Sandwiches, Baguettes, Würste, Salat",
     "type": "kalt, to go",
     "distance": 100,
     "waytime": 3,
@@ -142,5 +142,17 @@
 	"waytime": 5,
 	"staytime": 45,
 	"avgcosts": 10
+  },
+  {
+	"name": "Pamukkale Döner",
+	"address": "Judenberg 10",
+	"url": "https://de-de.facebook.com/pamukkalekebap",
+	"telephone": "0821 50871035",
+	"tags": "Döner, Dürüm, Türkisch",
+	"type": "warm, to go, zum dort essen",
+	"distance": 1000,
+	"waytime": 13,
+	"staytime": 30,
+	"avgcosts": 5
   }
 ]
