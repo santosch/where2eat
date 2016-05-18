@@ -130,5 +130,17 @@
     "waytime": 3,
     "staytime": 8,
     "avgcosts": 3
+  },
+  {
+	"name": "Riegele",
+	"address": "Frölichstraße 26",
+	"url": "http://http://www.riegele-wirtshaus.de",
+	"telephone": "0821 4552550",
+	"tags": "Gutbürgerlich, Bier, Fleisch",
+	"type": "warm, zum dort essen",
+	"distance": 400,
+	"waytime": 5,
+	"staytime": 45,
+	"avgcosts": 10
   }
 ]
